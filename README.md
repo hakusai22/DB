@@ -1,6 +1,6 @@
 # MIT-DB
 
-基于 GoLand 完成的 Labs of MIT DB: Distributed Systems.
+基于 Java 完成的 DB.
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -39,17 +39,9 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/xxxx
 
-### Lab 1 MapReduce
-
-### Lab 2 Raft
-
-### Lab 3 Fault-tolerant Key/Value Service
-
-### Lab 4 Sharded Key/Value Service
 
 
-
-MYDB 是一个 Java 实现的简单的数据库，部分原理参照自 MySQL、PostgreSQL 和 SQLite。实现了以下功能：
+### DB 是一个 Java 实现的简单的数据库
 
 - 数据的可靠性和数据恢复
 - 两段锁协议（2PL）实现可串行化调度
