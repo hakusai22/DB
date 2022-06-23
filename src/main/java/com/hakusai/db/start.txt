@@ -1,0 +1,13 @@
+mvn exec:java -Dexec.mainClass="Launcher" -Dexec.args="-create /tmp/mydb1"
+
+mvn exec:java -Dexec.mainClass="Launcher" -Dexec.args="-open /tmp/mydb1"
+
+mvn exec:java -Dexec.mainClass="Launcher"
+
+mvn exec:java -Dexec.mainClass="Launcher" -Dexec.args="-create D:/tmp/mydb"
+
+mvn exec:java -Dexec.mainClass="Launcher" -Dexec.args="-open D:/tmp/mydb"
+
+
+
+
